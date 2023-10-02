@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "652995917303",
+    "project_id": "church-donate-project",
+    "storage_bucket": "church-donate-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652995917303:android:14e0545d9f995f5f476af2",
+        "android_client_info": {
+          "package_name": "com.churchadmin.church"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652995917303-itp6nqhehqmfbee1vrsb79o55r2bfd4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.churchadmin.church",
+            "certificate_hash": "d8daf0d65980b25b1292c04f202ce866af67989c"
+          }
+        },
+        {
+          "client_id": "652995917303-ae65frjhndhrkoesue4qj3a9t2lth4gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHpn0rouFQjB6flLzQSoNgqI3xVFakmb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652995917303-ae65frjhndhrkoesue4qj3a9t2lth4gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
